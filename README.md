@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Polemistis-Akontio
 - 👀 I’m interested in everything and anything, I love to learn
-- 🌱 I’m currently learning C++ and Java
+- 🌱 I’m currently learning C++, Python and Java
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: unclesamrr@gmail.com or Polemistis Akontio#9393 on Discord
 
