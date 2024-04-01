@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Polemistis-Akontio
-- 👀 I’m interested in everything and anything, I love to learn
-- 🌱 I’m currently learning C++, Python and Java
+- 👀 My interests include programming, cybersecurity, penetration testing, 3D printing, and amateur radio
+- 🌱 I’m currently learning several languages in order from most to least proficient: Java, Python, HTML, CSS, Javascript, React, C++
 - 💞️ I’m looking to collaborate on anything
 
 <!---
