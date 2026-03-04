@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Polemistis-Akontio, I am a computer science student
-- 👀 My interests include programming, cybersecurity, penetration testing, 3D printing, and amateur radio
-- 🌱 I’m currently learning several languages in order from most to least proficient: Java, Python, HTML, CSS, Javascript, React, C++
+- Hi, I’m @Polemistis-Akontio, I hold a computer science degree
+- My interests include programming, cybersecurity, penetration testing, 3D printing, and amateur radio
+- I’m currently learning several languages in order from most to least proficient: Java, Python, Kotlin, HTML, CSS, Javascript, React, C++
   
 - Project showcase Lists:
 - TechJet was a team project where we had to create an online store that utilized a database.
