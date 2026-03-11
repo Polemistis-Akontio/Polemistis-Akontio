@@ -14,7 +14,7 @@
 
 - Other Notable Projects:
 -------------------------
--CSC-275 Project is a game built as a team using the Godot game engine. Feel free to download and play it!
+- CSC-275 Project is a game built as a team using the Godot game engine. Feel free to download and play it!
 
 <!---
 Polemistis-Akontio/Polemistis-Akontio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
